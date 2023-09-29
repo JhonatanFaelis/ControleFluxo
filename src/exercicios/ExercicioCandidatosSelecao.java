@@ -1,3 +1,4 @@
+package exercicios;
 import java.util.ArrayList;
 
 public class ExercicioCandidatosSelecao {
